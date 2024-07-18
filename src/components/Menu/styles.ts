@@ -24,4 +24,9 @@ export const styles = StyleSheet.create({
   close: {
     color: theme.colors.white,
   },
+  options: {
+    flexDirection: 'row',
+    gap: 16,
+    marginTop: 32,
+  },
 });

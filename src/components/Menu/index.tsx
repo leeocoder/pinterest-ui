@@ -3,6 +3,7 @@ import React, { forwardRef } from 'react';
 import { Text, View } from 'react-native';
 import { styles } from './styles';
 import { FontAwesome } from '@expo/vector-icons';
+import MenuButton from '../MenuButton';
 
 const Menu = forwardRef<BottomSheet, MenuProps>(({ onClose }, ref) => {
   return (
@@ -22,6 +23,20 @@ const Menu = forwardRef<BottomSheet, MenuProps>(({ onClose }, ref) => {
             onPress={onClose}
           />
           <Text style={styles.title}>Comece a criar agora</Text>
+        </View>
+        <View style={styles.options}>
+          <MenuButton
+            title='Pin'
+            icon='home'
+          />
+          <MenuButton
+            title='Colagem'
+            icon='copy'
+          />
+          <MenuButton
+            title='Pasta'
+            icon='folder'
+          />
         </View>
       </View>
     </BottomSheet>
