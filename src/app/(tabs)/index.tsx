@@ -1,8 +1,10 @@
 import Filters from '@/components/Filters';
+import Posts from '@/components/Posts';
 import { theme } from '@/themes';
 import { FILTERS } from '@/utils/filters';
-import { useState } from 'react';
+import { POSTS } from '@/utils/posts';
 
+import { useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 
 const Home = () => {
@@ -14,6 +16,8 @@ const Home = () => {
         filter={filter}
         onChange={setFilter}
       />
+
+      <Posts posts={POSTS} />
     </View>
   );
 };

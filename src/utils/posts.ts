@@ -9,43 +9,43 @@ export const POSTS = [
     id: 2,
     title: 'Mountain Hiking',
     image:
-      'https://www.pexels.com/photo/glass-panel-windows-under-a-white-ceiling-14143690/',
+      'https://images.pexels.com/photos/14143690/pexels-photo-14143690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
   },
   {
     id: 3,
     title: 'City Lights',
     image:
-      'https://www.pexels.com/photo/glass-panel-windows-under-a-white-ceiling-14143690/',
+      'https://images.pexels.com/photos/10805497/pexels-photo-10805497.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
   },
   {
     id: 4,
     title: 'Beach Sunset',
     image:
-      'https://www.pexels.com/photo/a-pine-cone-is-hanging-from-a-pine-tree-27011250/',
+      'https://images.pexels.com/photos/18535002/pexels-photo-18535002/free-photo-of-high-voltage-transmission-towers-and-power-lines-over-the-forest.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
   },
   {
     id: 5,
     title: 'Forest Trail',
     image:
-      'https://www.pexels.com/photo/a-pine-cone-is-hanging-from-a-pine-tree-27011250/',
+      'https://images.pexels.com/photos/27140162/pexels-photo-27140162/free-photo-of-a-bride-is-holding-her-bouquet-in-her-hand.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
   },
   {
     id: 6,
     title: 'Desert Adventure',
     image:
-      'https://www.pexels.com/photo/a-small-owl-perched-on-a-branch-in-the-woods-26919537/',
+      'https://images.pexels.com/photos/6464537/pexels-photo-6464537.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
   },
   {
     id: 7,
     title: 'City Park',
     image:
-      'https://www.pexels.com/photo/two-men-in-colorful-clothes-holding-up-large-leaves-15694778/',
+      'https://images.pexels.com/photos/19595922/pexels-photo-19595922/free-photo-of-mirror-over-table.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
   },
   {
     id: 8,
     title: 'Camping Trip',
     image:
-      'https://www.pexels.com/photo/woman-photographing-with-a-camera-23325663/',
+      'https://images.pexels.com/photos/21625306/pexels-photo-21625306/free-photo-of-eating-with-chopsticks-in-close-up-view.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
   },
   {
     id: 9,
