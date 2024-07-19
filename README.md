@@ -1,24 +1,24 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/BrunoSaibert/go-finances?color=%2304D361&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leeocoder/go-finances?color=%2304D361&style=for-the-badge">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/BrunoSaibert/go-finances?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leeocoder/go-finances?style=for-the-badge">
 
-  <a href="https://github.com/BrunoSaibert/go-finances/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/BrunoSaibert/go-finances?style=for-the-badge">
+  <a href="https://github.com/leeocoder/go-finances/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leeocoder/go-finances?style=for-the-badge">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
-   <a href="https://github.com/BrunoSaibert/go-finances/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/BrunoSaibert/go-finances?style=for-the-badge">
+   <a href="https://github.com/leeocoder/go-finances/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/leeocoder/go-finances?style=for-the-badge">
   </a>
 
-  <a href="https://brunosaibert.com.br/">
+  <a href="https://leeocoder.com.br/">
     <img alt="Feito por Bruno Saibert" src="https://img.shields.io/badge/feito%20por-Bruno%20Saibert-%231b9?style=for-the-badge">
   </a>
 
 </p>
 <h1 align="center">
-    <img alt="go-finances" title="#go-finances" src="https://raw.githubusercontent.com/BrunoSaibert/go-finances/main/src/assets/icon.png" width="200px" />
+    <img alt="go-finances" title="#go-finances" src="https://raw.githubusercontent.com/leeocoder/go-finances/main/src/assets/icon.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -35,9 +35,9 @@
  <a href="#--licença">Licença</a>
 </p>
 
-![](https://raw.githubusercontent.com/BrunoSaibert/go-finances/main/src/assets/cover.png)
+![](https://raw.githubusercontent.com/leeocoder/go-finances/main/src/assets/cover.png)
 
-## [](https://github.com/BrunoSaibert/go-finances#--sobre-o-projeto) 💻 Sobre o projeto
+## [](https://github.com/leeocoder/go-finances#--sobre-o-projeto) 💻 Sobre o projeto
 
 Aplicativo para ajudar no controle de finanças pessoas de forma simples.
 
@@ -47,7 +47,7 @@ Para o desenvolvimento utilizamos **React Native**, **Expo** e **TypeScript**.
 
 ---
 
-## [](https://github.com/BrunoSaibert/go-finances#-%EF%B8%8F-funcionalidades) ⚙️ Funcionalidades
+## [](https://github.com/leeocoder/go-finances#-%EF%B8%8F-funcionalidades) ⚙️ Funcionalidades
 
 - Logar com uma conta Google ou Apple (apenas em iOS)
 - Cadastrar entradas e saídes financeiras
@@ -57,7 +57,7 @@ Para o desenvolvimento utilizamos **React Native**, **Expo** e **TypeScript**.
 
 ---
 
-## [](https://github.com/BrunoSaibert/go-finances#--como-executar-o-projeto) 🚀 Como executar o projeto
+## [](https://github.com/leeocoder/go-finances#--como-executar-o-projeto) 🚀 Como executar o projeto
 
 ### Pré-requisitos
 
@@ -96,13 +96,13 @@ REDIRECT_URI=
 
 ---
 
-## [](https://github.com/BrunoSaibert/go-finances#--layout) 🔖 Layout
+## [](https://github.com/leeocoder/go-finances#--layout) 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/iqwSYiLThiSajHqWAQyVXO/GoFinances-Ignite?node-id=5154%3A131). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ---
 
-## [](https://github.com/BrunoSaibert/go-finances#--tecnologias) 🛠 Tecnologias
+## [](https://github.com/leeocoder/go-finances#--tecnologias) 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -122,13 +122,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Gráficos com Victory Native
 - React Native Responsive Fontsize
 
-> Veja o arquivo [package.json](https://github.com/BrunoSaibert/go-finances/blob/main/web/package.json)
+> Veja o arquivo [package.json](https://github.com/leeocoder/go-finances/blob/main/web/package.json)
 
 ---
 
-## [](https://github.com/BrunoSaibert/go-finances#--autor) 👨‍🚀 Autor
+## [](https://github.com/leeocoder/go-finances#--autor) 👨‍🚀 Autor
 
-<a href="https://brunosaibert.com.br/">
+<a href="https://leeocoder.com.br/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/37962036?v=4" width="100px;" alt="Bruno Henrique Saibert"/>
  <br />
  <sub><b>Leonardo Albuquerque</b></sub></a>
@@ -139,10 +139,10 @@ Feito com ❤️ por Leonardo Albuquerque 👋 Entre em contato!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohenriquesaibert/)](https://www.linkedin.com/in/brunohenriquesaibert/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bh_saibert)](https://twitter.com/bh_saibert)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)](https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:brunosaibert@gmail.com)](mailto:brunosaibert@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leeocoder@gmail.com)](mailto:leeocoder@gmail.com)
 
 ---
 
-## [](https://github.com/BrunoSaibert/go-finances#--licença) 📝 Licença
+## [](https://github.com/leeocoder/go-finances#--licença) 📝 Licença
 
 Este projeto esta sobe a licença MIT.
