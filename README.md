@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://leeocoder.com.br/">
-    <img alt="Feito por Bruno Saibert" src="https://img.shields.io/badge/feito%20por-Bruno%20Saibert-%231b9?style=for-the-badge">
+    <img alt="Feito por Leonardo Albuquerque" src="https://img.shields.io/badge/feito%20por-Leonardo%Albuquerque-%231b9?style=for-the-badge">
   </a>
 
 </p>
@@ -129,17 +129,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## [](https://github.com/leeocoder/go-finances#--autor) 👨‍🚀 Autor
 
 <a href="https://leeocoder.com.br/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/37962036?v=4" width="100px;" alt="Bruno Henrique Saibert"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/37962036?v=4" width="100px;" alt="Leonardo Oliveira Albuquerque"/>
  <br />
  <sub><b>Leonardo Albuquerque</b></sub></a>
  <br />
 
 Feito com ❤️ por Leonardo Albuquerque 👋 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohenriquesaibert/)](https://www.linkedin.com/in/brunohenriquesaibert/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bh_saibert)](https://twitter.com/bh_saibert)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)](https://api.whatsapp.com/send?phone=5541996758098&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leeocoder@gmail.com)](mailto:leeocoder@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohenriquesaibert/)](https://www.linkedin.com/in/leeocoder/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bh_saibert)](https://twitter.com/leeocoder)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leeocoder@gmail.com)](mailto:leodeesign@gmail.com)
 
 ---
 
