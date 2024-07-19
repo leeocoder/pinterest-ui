@@ -1,6 +1,7 @@
 import React from 'react';
 import { ScrollView, View } from 'react-native';
 import Post from '@/components/Post';
+import { styles } from './styles';
 
 const Posts = ({ posts }: PostsProps) => {
   function possByColumn(column: 'right' | 'left') {
@@ -10,6 +11,7 @@ const Posts = ({ posts }: PostsProps) => {
       .filter((_, index) => index % 2 === rest)
       .map(({ id, title, image }) => (
         <Post
+          key={id}
           id={id}
           title={title}
           image={image}
@@ -18,9 +20,14 @@ const Posts = ({ posts }: PostsProps) => {
   }
 
   return (
-    <ScrollView showsVerticalScrollIndicator={false}>
-      <View>{possByColumn('right')}</View>
-      <View>{possByColumn('left')}</View>
+    <ScrollView
+      showsVerticalScrollIndicator={false}
+      contentContainerStyle={styles.list}
+    >
+      <View style={styles.container}>
+        <View style={styles.column}>{possByColumn('right')}</View>
+        <View style={styles.column}>{possByColumn('left')}</View>
+      </View>
     </ScrollView>
   );
 };

@@ -2,14 +2,15 @@ import { theme } from '@/themes';
 import { StyleSheet } from 'react-native';
 
 export const styles = StyleSheet.create({
-  container: {},
+  container: {
+    flex: 1,
+    padding: 5,
+  },
   image: {
-    width: '100%',
-    height: 300,
     borderRadius: 22,
   },
   title: {
-    fontSize: 24,
+    fontSize: 16,
     fontFamily: theme.fontFamily.bold,
     color: theme.colors.white,
   },
