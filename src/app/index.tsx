@@ -97,8 +97,6 @@ const Splash = () => {
 
   React.useEffect(() => {
     logoAnimation();
-    console.log({ contentDisplayed: contentDisplayed.value });
-    console.log({ contentDisplayed });
   }, []);
 
   return (
